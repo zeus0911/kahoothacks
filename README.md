@@ -9,7 +9,7 @@ I'm Aagaman, a passionate individual who loves diving into the realms of AI, ML,
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aagaman-blue)](www.linkedin.com/in/aagaman-bhattarai-07068122a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aagaman-blue)](www.linkedin.com/in/aagaman-bhattarai-07068122a/)
 
 
 ## 📫 Tech Stack
